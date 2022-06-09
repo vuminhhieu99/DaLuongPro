@@ -1,0 +1,34 @@
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.exe.config
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.exe
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.pdb
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csprojAssemblyReference.cache
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.Properties.Resources.resources
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.GenerateResource.cache
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.CoreCompileInputs.cache
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.exe
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.pdb
+D:\WindowForm_Project\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.FormMain.resources
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.exe.config
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.exe
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.pdb
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.Properties.Resources.resources
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.GenerateResource.cache
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.CoreCompileInputs.cache
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.exe
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.pdb
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.FormBackroundWorker.resources
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.MainForm.resources
+D:\DEV\B16_VMHieu_NDHung\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.FormMultiThreads.resources
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.exe.config
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.exe
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\bin\Debug\B16_VMHieu_NDHung.pdb
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.FormMultiThreads.resources
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.FormBackroundWorker.resources
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.MainForm.resources
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.Properties.Resources.resources
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.GenerateResource.cache
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.CoreCompileInputs.cache
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.exe
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.pdb
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.AssemblyReference.cache
+D:\WindowForm_Project\Đa luồng Pro\B16_VMHieu_NDHung\B16_VMHieu_NDHung\obj\Debug\B16_VMHieu_NDHung.csproj.SuggestedBindingRedirects.cache
